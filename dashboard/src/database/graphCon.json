@@ -1,0 +1,1792 @@
+[
+  {
+    "franchiseId": 666,
+    "chartTitleFranchise": "Franchise",
+    "chartTitleAvgBrand": "Avg Molly",
+    "homeData": [
+      {
+        "reportText": "Pricing",
+        "contentInBold": "A price increase of 10% is recommended. ",
+        "contentInRegular": "It will help you gain 125% revenue and all the other FBOs are doing well with it."
+      },
+      {
+        "reportText": "Performance",
+        "contentInBold": "A staff increase of 11% is recommended. ",
+        "contentInRegular": "It will help with your scheduling and save you money. Your employees are also likely to have longer tenure."
+      },
+      {
+        "reportText": "Visual Health Indicator",
+        "contentInBold": "A Performance increase of 12% is recommended. ",
+        "contentInRegular": "It will increase overall productivity and health of your business, unlocking huge potential revenue of up to 150%."
+      }
+    ],
+    "healthIndicator": {
+      "percentage": 13,
+      "score": 70,
+      "reportText": "Visual Health Indicator"
+    },
+    "phoenixScore": {
+      "score": 79,
+      "percentage": 79,
+      "reportText": "Phoenix Score",
+      "url": "quicksight/performance-metrics"
+    },
+    "graphData": [
+      {
+        "single": false,
+        "heading": "Average Weekly Sales",
+        "code": "SALES",
+        "serialNum": 1,
+        "percentage": 8,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 500
+            },
+            {
+              "x": "Same Period last year",
+              "y": 400
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 450
+            },
+            {
+              "x": "Same Period last year",
+              "y": 350
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 501
+            },
+            {
+              "x": "Same Period last year",
+              "y": 401
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 451
+            },
+            {
+              "x": "Same Period last year",
+              "y": 351
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Occasional",
+        "code": "TICKET_OCC",
+        "serialNum": 2,
+        "percentage": 10,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 502
+            },
+            {
+              "x": "Same Period last year",
+              "y": 402
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 503
+            },
+            {
+              "x": "Same Period last year",
+              "y": 403
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Recurring",
+        "code": "TICKET_REC",
+        "serialNum": 3,
+        "percentage": 12,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 504
+            },
+            {
+              "x": "Same Period last year",
+              "y": 404
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 505
+            },
+            {
+              "x": "Same Period last year",
+              "y": 405
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Active Recurring Customers",
+        "code": "CUSTOMERS",
+        "serialNum": 4,
+        "percentage": 14,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 506
+            },
+            {
+              "x": "Same Period last year",
+              "y": 406
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 507
+            },
+            {
+              "x": "Same Period last year",
+              "y": 407
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Annualized Customer Churn",
+        "code": "CHURN",
+        "serialNum": 5,
+        "percentage": 16,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 508
+            },
+            {
+              "x": "Same Period last year",
+              "y": 408
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 509
+            },
+            {
+              "x": "Same Period last year",
+              "y": 409
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Number of Weekly of Leads",
+        "code": "AVGLEADS",
+        "serialNum": 6,
+        "percentage": 18,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 510
+            },
+            {
+              "x": "Same Period last year",
+              "y": 410
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 511
+            },
+            {
+              "x": "Same Period last year",
+              "y": 411
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Weekly Estimates",
+        "code": "ESTIMATE",
+        "serialNum": 7,
+        "percentage": 20,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 512
+            },
+            {
+              "x": "Same Period last year",
+              "y": 412
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 513
+            },
+            {
+              "x": "Same Period last year",
+              "y": 413
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Cleans per Month",
+        "code": "CLEANSMONTHLY",
+        "serialNum": 8,
+        "percentage": 22,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 514
+            },
+            {
+              "x": "Same Period last year",
+              "y": 414
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 515
+            },
+            {
+              "x": "Same Period last year",
+              "y": 415
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": false,
+        "heading": "Average Number of Weekly Cleans",
+        "code": "CLEANSWEEKLY",
+        "serialNum": 9,
+        "percentage": 24,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 516
+            },
+            {
+              "x": "Same Period last year",
+              "y": 416
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 466
+            },
+            {
+              "x": "Same Period last year",
+              "y": 366
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 517
+            },
+            {
+              "x": "Same Period last year",
+              "y": 417
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 467
+            },
+            {
+              "x": "Same Period last year",
+              "y": 367
+            }
+          ]
+        }
+      },
+      {
+        "single": false,
+        "heading": "Web Lead Conversion Rate",
+        "code": "WEBLEAD",
+        "serialNum": 10,
+        "percentage": 26,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 518
+            },
+            {
+              "x": "Same Period last year",
+              "y": 418
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 468
+            },
+            {
+              "x": "Same Period last year",
+              "y": 368
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 519
+            },
+            {
+              "x": "Same Period last year",
+              "y": 419
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 469
+            },
+            {
+              "x": "Same Period last year",
+              "y": 369
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Estimate Close Rate",
+        "code": "CLOSERATE",
+        "serialNum": 11,
+        "percentage": 28,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 520
+            },
+            {
+              "x": "Same Period last year",
+              "y": 420
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 521
+            },
+            {
+              "x": "Same Period last year",
+              "y": 421
+            }
+          ],
+          "dataB": null
+        }
+      }
+    ]
+  },
+  {
+    "franchiseId": 667,
+    "chartTitleFranchise": "Franchise",
+    "chartTitleAvgBrand": "Avg Molly",
+    "homeData": [
+      {
+        "reportText": "Pricing",
+        "contentInBold": "A price increase of 15% is recommended. ",
+        "contentInRegular": "It will help you gain 125% revenue and all the other FBOs are doing well with it."
+      },
+      {
+        "reportText": "Performance",
+        "contentInBold": "A staff increase of 16% is recommended. ",
+        "contentInRegular": "It will help with your scheduling and save you money. Your employees are also likely to have longer tenure."
+      },
+      {
+        "reportText": "Visual Health Indicator",
+        "contentInBold": "A Performance increase of 17% is recommended. ",
+        "contentInRegular": "It will increase overall productivity and health of your business, unlocking huge potential revenue of up to 150%."
+      }
+    ],
+    "healthIndicator": {
+      "percentage": 18,
+      "score": 19,
+      "reportText": "Visual Health Indicator"
+    },
+    "graphData": [
+      {
+        "single": false,
+        "heading": "Average Weekly Sales",
+        "code": "SALES",
+        "serialNum": 1,
+        "percentage": 30,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 522
+            },
+            {
+              "x": "Same Period last year",
+              "y": 422
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 472
+            },
+            {
+              "x": "Same Period last year",
+              "y": 372
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 523
+            },
+            {
+              "x": "Same Period last year",
+              "y": 423
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 473
+            },
+            {
+              "x": "Same Period last year",
+              "y": 373
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Occasional",
+        "code": "TICKET_OCC",
+        "serialNum": 2,
+        "percentage": 32,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 524
+            },
+            {
+              "x": "Same Period last year",
+              "y": 424
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 525
+            },
+            {
+              "x": "Same Period last year",
+              "y": 425
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Recurring",
+        "code": "TICKET_REC",
+        "serialNum": 3,
+        "percentage": 34,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 526
+            },
+            {
+              "x": "Same Period last year",
+              "y": 426
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 527
+            },
+            {
+              "x": "Same Period last year",
+              "y": 427
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Active Recurring Customers",
+        "code": "CUSTOMERS",
+        "serialNum": 4,
+        "percentage": 36,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 528
+            },
+            {
+              "x": "Same Period last year",
+              "y": 428
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 529
+            },
+            {
+              "x": "Same Period last year",
+              "y": 429
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Annualized Customer Churn",
+        "code": "CHURN",
+        "serialNum": 5,
+        "percentage": 38,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 530
+            },
+            {
+              "x": "Same Period last year",
+              "y": 430
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 531
+            },
+            {
+              "x": "Same Period last year",
+              "y": 431
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Number of Weekly of Leads",
+        "code": "AVGLEADS",
+        "serialNum": 6,
+        "percentage": 40,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 532
+            },
+            {
+              "x": "Same Period last year",
+              "y": 432
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 533
+            },
+            {
+              "x": "Same Period last year",
+              "y": 433
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Weekly Estimates",
+        "code": "ESTIMATE",
+        "serialNum": 7,
+        "percentage": 42,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 534
+            },
+            {
+              "x": "Same Period last year",
+              "y": 434
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 535
+            },
+            {
+              "x": "Same Period last year",
+              "y": 435
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Cleans per Month",
+        "code": "CLEANSMONTHLY",
+        "serialNum": 8,
+        "percentage": 44,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 536
+            },
+            {
+              "x": "Same Period last year",
+              "y": 436
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 537
+            },
+            {
+              "x": "Same Period last year",
+              "y": 437
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": false,
+        "heading": "Average Number of Weekly Cleans",
+        "code": "CLEANSWEEKLY",
+        "serialNum": 9,
+        "percentage": 46,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 538
+            },
+            {
+              "x": "Same Period last year",
+              "y": 438
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 488
+            },
+            {
+              "x": "Same Period last year",
+              "y": 388
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 539
+            },
+            {
+              "x": "Same Period last year",
+              "y": 439
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 489
+            },
+            {
+              "x": "Same Period last year",
+              "y": 389
+            }
+          ]
+        }
+      },
+      {
+        "single": false,
+        "heading": "Web Lead Conversion Rate",
+        "code": "WEBLEAD",
+        "serialNum": 10,
+        "percentage": 48,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 540
+            },
+            {
+              "x": "Same Period last year",
+              "y": 440
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 490
+            },
+            {
+              "x": "Same Period last year",
+              "y": 390
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 541
+            },
+            {
+              "x": "Same Period last year",
+              "y": 441
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 491
+            },
+            {
+              "x": "Same Period last year",
+              "y": 391
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Estimate Close Rate",
+        "code": "CLOSERATE",
+        "serialNum": 11,
+        "percentage": 50,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 542
+            },
+            {
+              "x": "Same Period last year",
+              "y": 442
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 543
+            },
+            {
+              "x": "Same Period last year",
+              "y": 443
+            }
+          ],
+          "dataB": null
+        }
+      }
+    ]
+  },
+  {
+    "franchiseId": 49177,
+    "chartTitleFranchise": "Franchise",
+    "chartTitleAvgBrand": "Avg Molly",
+    "homeData": [
+      {
+        "reportText": "Pricing",
+        "contentInBold": "A price increase of 20% is recommended. ",
+        "contentInRegular": "It will help you gain 125% revenue and all the other FBOs are doing well with it."
+      },
+      {
+        "reportText": "Performance",
+        "contentInBold": "A staff increase of 21% is recommended. ",
+        "contentInRegular": "It will help with your scheduling and save you money. Your employees are also likely to have longer tenure."
+      },
+      {
+        "reportText": "Visual Health Indicator",
+        "contentInBold": "A Performance increase of 22% is recommended. ",
+        "contentInRegular": "It will increase overall productivity and health of your business, unlocking huge potential revenue of up to 150%."
+      }
+    ],
+    "healthIndicator": {
+      "percentage": 23,
+      "score": 24,
+      "reportText": "Visual Health Indicator"
+    },
+    "graphData": [
+      {
+        "single": false,
+        "heading": "Average Weekly Sales",
+        "code": "SALES",
+        "serialNum": 1,
+        "percentage": 52,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 544
+            },
+            {
+              "x": "Same Period last year",
+              "y": 444
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 494
+            },
+            {
+              "x": "Same Period last year",
+              "y": 394
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 545
+            },
+            {
+              "x": "Same Period last year",
+              "y": 445
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 495
+            },
+            {
+              "x": "Same Period last year",
+              "y": 395
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Occasional",
+        "code": "TICKET_OCC",
+        "serialNum": 2,
+        "percentage": 54,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 546
+            },
+            {
+              "x": "Same Period last year",
+              "y": 446
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 547
+            },
+            {
+              "x": "Same Period last year",
+              "y": 447
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Recurring",
+        "code": "TICKET_REC",
+        "serialNum": 3,
+        "percentage": 56,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 548
+            },
+            {
+              "x": "Same Period last year",
+              "y": 448
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 549
+            },
+            {
+              "x": "Same Period last year",
+              "y": 449
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Active Recurring Customers",
+        "code": "CUSTOMERS",
+        "serialNum": 4,
+        "percentage": 58,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 550
+            },
+            {
+              "x": "Same Period last year",
+              "y": 450
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 551
+            },
+            {
+              "x": "Same Period last year",
+              "y": 451
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Annualized Customer Churn",
+        "code": "CHURN",
+        "serialNum": 5,
+        "percentage": 60,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 552
+            },
+            {
+              "x": "Same Period last year",
+              "y": 452
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 553
+            },
+            {
+              "x": "Same Period last year",
+              "y": 453
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Number of Weekly of Leads",
+        "code": "AVGLEADS",
+        "serialNum": 6,
+        "percentage": 62,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 554
+            },
+            {
+              "x": "Same Period last year",
+              "y": 454
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 555
+            },
+            {
+              "x": "Same Period last year",
+              "y": 455
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Weekly Estimates",
+        "code": "ESTIMATE",
+        "serialNum": 7,
+        "percentage": 64,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 556
+            },
+            {
+              "x": "Same Period last year",
+              "y": 456
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 557
+            },
+            {
+              "x": "Same Period last year",
+              "y": 457
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Cleans per Month",
+        "code": "CLEANSMONTHLY",
+        "serialNum": 8,
+        "percentage": 66,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 558
+            },
+            {
+              "x": "Same Period last year",
+              "y": 458
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 559
+            },
+            {
+              "x": "Same Period last year",
+              "y": 459
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": false,
+        "heading": "Average Number of Weekly Cleans",
+        "code": "CLEANSWEEKLY",
+        "serialNum": 9,
+        "percentage": 68,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 560
+            },
+            {
+              "x": "Same Period last year",
+              "y": 460
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 510
+            },
+            {
+              "x": "Same Period last year",
+              "y": 410
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 561
+            },
+            {
+              "x": "Same Period last year",
+              "y": 461
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 511
+            },
+            {
+              "x": "Same Period last year",
+              "y": 411
+            }
+          ]
+        }
+      },
+      {
+        "single": false,
+        "heading": "Web Lead Conversion Rate",
+        "code": "WEBLEAD",
+        "serialNum": 10,
+        "percentage": 70,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 562
+            },
+            {
+              "x": "Same Period last year",
+              "y": 462
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 512
+            },
+            {
+              "x": "Same Period last year",
+              "y": 412
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 563
+            },
+            {
+              "x": "Same Period last year",
+              "y": 463
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 513
+            },
+            {
+              "x": "Same Period last year",
+              "y": 413
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Estimate Close Rate",
+        "code": "CLOSERATE",
+        "serialNum": 11,
+        "percentage": 72,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 564
+            },
+            {
+              "x": "Same Period last year",
+              "y": 464
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 565
+            },
+            {
+              "x": "Same Period last year",
+              "y": 465
+            }
+          ],
+          "dataB": null
+        }
+      }
+    ]
+  },
+  {
+    "franchiseId": 50431,
+    "chartTitleFranchise": "Franchise",
+    "chartTitleAvgBrand": "Avg Molly",
+    "homeData": [
+      {
+        "reportText": "Pricing",
+        "contentInBold": "A price increase of 25% is recommended. ",
+        "contentInRegular": "It will help you gain 125% revenue and all the other FBOs are doing well with it."
+      },
+      {
+        "reportText": "Performance",
+        "contentInBold": "A staff increase of 26% is recommended. ",
+        "contentInRegular": "It will help with your scheduling and save you money. Your employees are also likely to have longer tenure."
+      },
+      {
+        "reportText": "Visual Health Indicator",
+        "contentInBold": "A Performance increase of 27% is recommended. ",
+        "contentInRegular": "It will increase overall productivity and health of your business, unlocking huge potential revenue of up to 150%."
+      }
+    ],
+    "healthIndicator": {
+      "percentage": 28,
+      "score": 29,
+      "reportText": "Visual Health Indicator"
+    },
+    "graphData": [
+      {
+        "single": false,
+        "heading": "Average Weekly Sales",
+        "code": "SALES",
+        "serialNum": 1,
+        "percentage": 74,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 566
+            },
+            {
+              "x": "Same Period last year",
+              "y": 466
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 516
+            },
+            {
+              "x": "Same Period last year",
+              "y": 416
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 567
+            },
+            {
+              "x": "Same Period last year",
+              "y": 467
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 517
+            },
+            {
+              "x": "Same Period last year",
+              "y": 417
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Occasional",
+        "code": "TICKET_OCC",
+        "serialNum": 2,
+        "percentage": 76,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 568
+            },
+            {
+              "x": "Same Period last year",
+              "y": 468
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 569
+            },
+            {
+              "x": "Same Period last year",
+              "y": 469
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Ticket Price - Recurring",
+        "code": "TICKET_REC",
+        "serialNum": 3,
+        "percentage": 78,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 570
+            },
+            {
+              "x": "Same Period last year",
+              "y": 470
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 571
+            },
+            {
+              "x": "Same Period last year",
+              "y": 471
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Active Recurring Customers",
+        "code": "CUSTOMERS",
+        "serialNum": 4,
+        "percentage": 80,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 572
+            },
+            {
+              "x": "Same Period last year",
+              "y": 472
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 573
+            },
+            {
+              "x": "Same Period last year",
+              "y": 473
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Annualized Customer Churn",
+        "code": "CHURN",
+        "serialNum": 5,
+        "percentage": 82,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 574
+            },
+            {
+              "x": "Same Period last year",
+              "y": 474
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 575
+            },
+            {
+              "x": "Same Period last year",
+              "y": 475
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Number of Weekly of Leads",
+        "code": "AVGLEADS",
+        "serialNum": 6,
+        "percentage": 84,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 576
+            },
+            {
+              "x": "Same Period last year",
+              "y": 476
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 577
+            },
+            {
+              "x": "Same Period last year",
+              "y": 477
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Weekly Estimates",
+        "code": "ESTIMATE",
+        "serialNum": 7,
+        "percentage": 86,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 578
+            },
+            {
+              "x": "Same Period last year",
+              "y": 478
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 579
+            },
+            {
+              "x": "Same Period last year",
+              "y": 479
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": true,
+        "heading": "Average Cleans per Month",
+        "code": "CLEANSMONTHLY",
+        "serialNum": 8,
+        "percentage": 88,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 580
+            },
+            {
+              "x": "Same Period last year",
+              "y": 480
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 581
+            },
+            {
+              "x": "Same Period last year",
+              "y": 481
+            }
+          ],
+          "dataB": null
+        }
+      },
+      {
+        "single": false,
+        "heading": "Average Number of Weekly Cleans",
+        "code": "CLEANSWEEKLY",
+        "serialNum": 9,
+        "percentage": 90,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 582
+            },
+            {
+              "x": "Same Period last year",
+              "y": 482
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 532
+            },
+            {
+              "x": "Same Period last year",
+              "y": 432
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 583
+            },
+            {
+              "x": "Same Period last year",
+              "y": 483
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 533
+            },
+            {
+              "x": "Same Period last year",
+              "y": 433
+            }
+          ]
+        }
+      },
+      {
+        "single": false,
+        "heading": "Web Lead Conversion Rate",
+        "code": "WEBLEAD",
+        "serialNum": 10,
+        "percentage": 92,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 584
+            },
+            {
+              "x": "Same Period last year",
+              "y": 484
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 534
+            },
+            {
+              "x": "Same Period last year",
+              "y": 434
+            }
+          ]
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 585
+            },
+            {
+              "x": "Same Period last year",
+              "y": 485
+            }
+          ],
+          "dataB": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 535
+            },
+            {
+              "x": "Same Period last year",
+              "y": 435
+            }
+          ]
+        }
+      },
+      {
+        "single": true,
+        "heading": "Estimate Close Rate",
+        "code": "CLOSERATE",
+        "serialNum": 11,
+        "percentage": 94,
+        "franchise": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 586
+            },
+            {
+              "x": "Same Period last year",
+              "y": 486
+            }
+          ],
+          "dataB": null
+        },
+        "brand": {
+          "dataA": [
+            {
+              "x": "Avg Last 13 weeks",
+              "y": 587
+            },
+            {
+              "x": "Same Period last year",
+              "y": 487
+            }
+          ],
+          "dataB": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "756a",
+      "name": "sreelatha",
+      "email": "sreelatha@gmail.com",
+      "contact": "9876545699",
+      "password": "456",
+      "isAdmin": true
+    },
+    {
+      "id": "6958",
+      "name": "kjhg",
+      "email": "jyytr@gmail.com",
+      "contact": "3456776450",
+      "password": "987",
+      "isAdmin": false
+    },
+    {
+      "id": "08d0",
+      "name": "sdf",
+      "email": "sdfg@gmail.com",
+      "contact": "3456787678",
+      "password": "456",
+      "isAdmin": false
+    },
+    {
+      "id": "0ff2",
+      "name": "sree",
+      "email": "sree@gmail.com",
+      "contact": "6578909876",
+      "password": "1234",
+      "isAdmin": true
+    },
+    {
+      "id": "2816",
+      "name": "sreelatha",
+      "email": "sreelatha@gmail.com",
+      "contact": "3456789876",
+      "password": "12345",
+      "isAdmin": true
+    },
+    {
+      "id": "4ea1",
+      "name": "lkjkkj",
+      "email": "kjkjkj@gmail.com",
+      "contact": "5678956789",
+      "password": "6789",
+      "isAdmin": false
+    },
+    {
+      "id": "ae7a",
+      "name": "sucharitha",
+      "email": "sucharitha@gmail.com",
+      "contact": "9876567897",
+      "password": "567",
+      "isAdmin": true
+    }
+  ]
+}

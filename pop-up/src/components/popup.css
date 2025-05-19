@@ -1,0 +1,61 @@
+.popup-container {
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    background-color: palevioletred;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    display: flex;
+    max-width: 50%;
+}
+
+.popup-content {
+    display: flex;
+    align-items: center;
+}
+
+.cancel-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #333;
+}
+
+.text-content {
+    padding: 20px;
+    flex: 1;
+}
+
+.text-content h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.text-content p {
+    font-size: 14px;
+}
+
+.image-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.image-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+/* popup.css */
+
+.popup-logo {
+    width: 80px; /* Adjust size as needed */
+    height: 80px; /* Adjust size as needed */
+    border-radius: 50%; /* Make the logo round */
+    margin-bottom: 20px; /* Add spacing below the logo */
+  }
+  

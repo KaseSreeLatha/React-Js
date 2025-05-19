@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "Anuhya9876",
+      "password": "anu@123",
+      "id": "2968"
+    },
+    {
+      "id": "c420",
+      "username": "SreeLatha",
+      "password": "sree@1234"
+    },
+    {
+      "id": "8dbc",
+      "username": "ghjutrdd",
+      "password": "asdfg"
+    },
+    {
+      "id": "231d",
+      "username": "kjhgfrerty",
+      "password": "asdf@12"
+    },
+    {
+      "id": "2574",
+      "username": "sdfg56778",
+      "password": "sdfg@1234"
+    },
+    {
+      "id": "f30f",
+      "username": "sree9876",
+      "password": "123"
+    },
+    {
+      "id": "0f5e",
+      "username": "Sriharsha987",
+      "password": "1234"
+    }
+  ]
+}
